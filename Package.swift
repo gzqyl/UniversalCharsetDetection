@@ -28,6 +28,5 @@ let package = Package(
             "UniversalCharsetDetection",
          ]
       ),
-   ],
-   swiftLanguageVersions: [.v4_2, .v5, .v6, .v7]
+   ]
 )

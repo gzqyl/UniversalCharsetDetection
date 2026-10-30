@@ -29,5 +29,5 @@ let package = Package(
          ]
       ),
    ],
-   swiftLanguageVersions: [.v4_2, .v5]
+   swiftLanguageVersions: [.v4_2, .v5, .v6, .v7]
 )
